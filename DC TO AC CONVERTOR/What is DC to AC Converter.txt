@@ -1,0 +1,10 @@
+What is DC to AC Converter?
+DC to AC converters is mainly designed for changing a DC power supply to an AC power supply. Here, DC power supply is comparatively stable as well as positive voltage source whereas AC oscillates approximately a 0V base stage, typically in a sinusoidal or square or mode.
+
+The DC to AC Converter Circuit using Transistors is shown below. The basic function of an inverter circuit is to generate oscillations with the specified DC & apply these to the transformer’s primary winding by increasing the current. This main voltage is then step up to a high voltage based on the number of twists within main and minor coils.
+Why Do We Require Changing from DC to AC?
+Most of the vehicles use their power from a battery of 12V. But in some cases, a 24v battery can be used. It is very significant to know the vehicle voltage due to the voltage rating of the inverter we choose must equal the battery’s voltage.
+
+In any case, the battery gives DC, which means the flow of current will be continuous from the batteries negative terminal to the positive terminal. In DC, the flow of current will be only in one direction. DC is extremely helpful, however, batteries can normally provide somewhat DC power with low voltage. Several devices require extra power to work correctly than DC can offer.
+
+Thus, this is all about DC to AC converter, how to convert dc to ac. A converter enhances the DC voltage to alter it into AC before transmitting it out to give current to a device. Primarily, these were intended to perform the reverse for converting AC to DC. Because basically, these converters could be work in opposite to achieve the reverse effect, this is called as inverters.
